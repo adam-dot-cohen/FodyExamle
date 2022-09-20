@@ -1,0 +1,17 @@
+E:\gitnone\FodyExample\bin\Debug\net6.0\FodyExample.exe
+E:\gitnone\FodyExample\bin\Debug\net6.0\FodyExample.deps.json
+E:\gitnone\FodyExample\bin\Debug\net6.0\FodyExample.runtimeconfig.json
+E:\gitnone\FodyExample\bin\Debug\net6.0\FodyExample.dll
+E:\gitnone\FodyExample\bin\Debug\net6.0\FodyExample.pdb
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.csproj.AssemblyReference.cache
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.AssemblyInfoInputs.cache
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.AssemblyInfo.cs
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.csproj.CoreCompileInputs.cache
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.csproj.Fody.CopyLocal.cache
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.csproj.Fody.RuntimeCopyLocal.cache
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.dll
+E:\gitnone\FodyExample\obj\Debug\net6.0\refint\FodyExample.dll
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.pdb
+E:\gitnone\FodyExample\obj\Debug\net6.0\FodyExample.genruntimeconfig.cache
+E:\gitnone\FodyExample\obj\Debug\net6.0\ref\FodyExample.dll
